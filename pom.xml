@@ -18,7 +18,7 @@
         <akka.version>2.2.3-shaded-protobuf</akka.version>
         <akka.group>org.spark-project.akka</akka.group>
         <spray.version>1.2.3</spray.version>
-        <fasterxml>2.4.4</fasterxml>
+        <fasterxml>2.15.0</fasterxml>
     </properties>
 
 
